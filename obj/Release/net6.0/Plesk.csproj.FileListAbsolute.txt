@@ -52,30 +52,3 @@ E:\Plesk .NET & Angular\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Re
 E:\Plesk .NET & Angular\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.pdb
 E:\Plesk .NET & Angular\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.genruntimeconfig.cache
 E:\Plesk .NET & Angular\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\ref\Plesk.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\appsettings.Development.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\appsettings.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Plesk.exe
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Plesk.deps.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Plesk.runtimeconfig.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Plesk.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Plesk.pdb
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Microsoft.OpenApi.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.csproj.AssemblyReference.cache
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.GeneratedMSBuildEditorConfig.editorconfig
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.AssemblyInfoInputs.cache
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.AssemblyInfo.cs
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.csproj.CoreCompileInputs.cache
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.MvcApplicationPartsAssemblyInfo.cs
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.MvcApplicationPartsAssemblyInfo.cache
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\staticwebassets.build.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\staticwebassets.development.json
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\scopedcss\bundle\Plesk.styles.css
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.csproj.CopyComplete
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\refint\Plesk.dll
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.pdb
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\Plesk.genruntimeconfig.cache
-E:\Full-Stack---Angular-.NET-Core-with-Plesk-Hosting\obj\Release\net6.0\ref\Plesk.dll
