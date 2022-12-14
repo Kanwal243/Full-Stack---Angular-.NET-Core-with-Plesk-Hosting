@@ -1,0 +1,11 @@
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Plesk.exe
+E:\plesk\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\plesk\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Plesk.dll
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Plesk.deps.json
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Plesk.runtimeconfig.json
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Plesk.pdb
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\plesk\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
